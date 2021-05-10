@@ -59,9 +59,9 @@
 				C1D193832643522E00637388 /* AppDelegate.swift */,
 				C1D193852643522E00637388 /* SceneDelegate.swift */,
 				C1D193872643522E00637388 /* ViewController.swift */,
+				C1D1938E2643523100637388 /* LaunchScreen.storyboard */,
 				C1D193892643522E00637388 /* Main.storyboard */,
 				C1D1938C2643523100637388 /* Assets.xcassets */,
-				C1D1938E2643523100637388 /* LaunchScreen.storyboard */,
 				C1D193912643523100637388 /* Info.plist */,
 			);
 			path = MusicReviewV3;
